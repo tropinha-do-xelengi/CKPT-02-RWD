@@ -1,3 +1,8 @@
+@import url("./cabecalho.css");
+@import url("./conteudo.css");
+@import url("./rodape.css");
+@import url("./breakpoint-630px.css");
+
 *{
     box-sizing: border-box;
     margin: 0;
