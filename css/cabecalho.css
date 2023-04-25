@@ -4,10 +4,11 @@
 }
 
 .cabecalho nav{
-    display: flex;
+    display: line;
     flex-direction: row;
 }
 .cabecalho li{
+    display: inline;
     list-style: none;
 }
 .cabecalho a {
