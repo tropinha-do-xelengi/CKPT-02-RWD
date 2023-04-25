@@ -1,0 +1,15 @@
+.cabecalho{
+    display: flex;
+    justify-content: space-between;
+}
+
+.cabecalho nav{
+    display: flex;
+    flex-direction: row;
+}
+.cabecalho li{
+    list-style: none;
+}
+.cabecalho a {
+    text-decoration: none;
+}
