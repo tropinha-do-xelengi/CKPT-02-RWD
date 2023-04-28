@@ -32,6 +32,7 @@
 }
 .conteudo figure > figcaption{
     text-align: center;
+    font-size: 1.7rem;
 }
 .conteudo img{
     max-width: 80%;
