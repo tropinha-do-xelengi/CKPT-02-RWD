@@ -1,0 +1,45 @@
+@media(max-width:630px){
+/* CABEÇALHO */
+    .cabecalho{ 
+        flex-direction: column;
+        justify-content: center; 
+    } 
+    .cabecalho nav { 
+        flex-direction: column;
+        flex-wrap: nowrap; 
+    } 
+    .cabecalho a { 
+        padding: 5vh 0; 
+        font-size: 2rem; 
+    }
+    .cabecalho img{
+        width: 70%;
+        margin: 0;
+    }
+/* CABEÇALHO */
+
+/* --------------------------------------------------------- */
+
+/* CONTEUDO */
+    .conteudo{
+        margin: 2% auto;
+    }
+    .conteudo div{
+        border: 1px solid black;
+        margin: 0;
+    }
+    div.games{
+        border-radius: 10% 10% 0 0;
+    }
+    div.tech{
+        border-radius: 0 0 10% 10%  ;
+    }
+    .conteudo h2{
+        font-size: 3rem;
+    }
+    .conteudo figure > figcaption {
+        padding: 0 10%;
+        font-size: 1.4rem;
+    }
+/* CONTEUDO */
+}
