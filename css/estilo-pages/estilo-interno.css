@@ -71,12 +71,12 @@ body{
 div.pg_games{
     background-color: rgb(220, 146, 225);
 }
-/* div.pg_mobile{
+div.pg_mobile{
     background-color: rgb(216, 185, 82);
 }
 div.pg_tech{
     background-color: rgb(126, 195, 222);
-} */
+}
 .conteudo h2 {
     padding-top: 2%;
     margin: 0 auto;
