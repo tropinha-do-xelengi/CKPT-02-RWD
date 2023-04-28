@@ -31,9 +31,6 @@
     .conteudo h2{
         font-size: 2rem;
     }
-    .conteudo p.texto{
-        font-size: 1.4rem; /* Tamanho de fonte ajustado */
-    }
     .conteudo figure > figcaption {
         padding: 0 10%;
         font-size: 1.4rem;

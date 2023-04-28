@@ -21,7 +21,7 @@ body{
     font-size: 3rem;
 
     display: flex;
-    justify-content: space-between;
+    justify-content: space-around;
     align-items: center;
     flex-wrap: wrap;
 }
@@ -80,12 +80,15 @@ div.pg_tech{
 .conteudo h2 {
     padding-top: 2%;
     margin: 0 auto;
+    font-size: 3rem;
+    font-weight: 700;
    
 }
 .conteudo p {
     text-align: center;
     width: 70%;
     margin: 0 auto;
+    font-size: 2rem;
 }
 .conteudo figure{
     display: flex;
@@ -101,6 +104,8 @@ div.pg_tech{
 }
 .conteudo figcaption{
     padding: 2% 0;
+    font-size: 1.8rem;
+    text-align: center;
 }
 /* CONTEUDO */
 
